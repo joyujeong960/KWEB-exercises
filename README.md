@@ -6,7 +6,7 @@
 - Exercise1.4_1.1.html 
 - Exercise1.4_1.2.html
 
-### 1) 2023.05.01. 3주차 과제
+### 2) 2023.05.01. 3주차 과제
 **과제 목표:** CSS를 활용하여 HTML 문서를 디자인하기
 - Exercise2.1
   - text-styling.css
