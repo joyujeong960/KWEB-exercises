@@ -15,3 +15,12 @@
 - Exercise 2.3
   - Exercise2.3.html 
   - scroll-button.css
+
+### 3) 2023.05.08. 4주차 과제
+**과제 목표:** CSS를 활용하여 반응형 웹페이지 구현
+- Exercise2.4
+  - Exercise2.4.html 
+  - responsive-color-page.css
+- Exercise 2.5
+  - Exercise2.5.html
+  - responsive-layout.css
