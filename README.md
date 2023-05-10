@@ -24,3 +24,12 @@
 - Exercise 2.5
   - Exercise2.5.html
   - responsive-layout.css
+
+### 4) 2023.05.15. 5주차 과제
+**과제 목표:** 기초 js 문법
+- Exercise3.1
+  - Exercise3.1.js
+  - Exercise3.1.png (결과 이미지)
+- Exercise3.2
+  - Exercise3.2.js
+  - Exercise3.2.png (결과 이미지)
