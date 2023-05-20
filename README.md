@@ -33,3 +33,15 @@
 - Exercise3.2
   - Exercise3.2.js
   - Exercise3.2.png (결과 이미지)
+
+### 5) 2023.05.22. 6주차 과제
+**과제 목표:** 기초 js 적용
+- Exercise4.1
+  - Exercise4.1.html
+  - random-color-box.js
+- Exercise4.2
+  - Exercise4.2.html
+  - times-table.js
+- Exercise4.3
+  - Exercise4.3.html
+  - box-color-btn.js
