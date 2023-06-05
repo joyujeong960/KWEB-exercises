@@ -45,3 +45,16 @@
 - Exercise4.3
   - Exercise4.3.html
   - box-color-btn.js
+
+### 5) 2023.06.05. 8주차 과제
+**과제 목표:** 기초 js 적용
+- Exercise4.4
+  - Exercise4.4.html
+  - random-level-up.js
+- Exercise4.5
+  - Exercise4.5.html
+  - oneline-shopping-cart.js
+- Exercise4.6
+  - Exercise4.6.html
+  - maze-escaping-game.js
+  - maze-escaping-game.css
